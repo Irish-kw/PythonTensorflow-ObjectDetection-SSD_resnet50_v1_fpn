@@ -5,6 +5,8 @@ Using ssd_resnet50_v1_fpn model to train Blood Image
 ## Detail
 Nvidia 1080 TI X4
 
+Tensorflow : 2.2
+
 Training time : 2hour
 
 Batch size :8
