@@ -19,6 +19,7 @@ test data number : 97
 
 label : xml -> csv -> train.record and test.record
 
+Dataset : https://github.com/Shenggan/BCCD_Dataset
 
 ## Result
 
