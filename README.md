@@ -7,9 +7,9 @@ Nvidia 1080 TI X4
 
 Tensorflow : 2.2
 
-Training time : 2hour
+Training time : 
 
-Batch size :8
+Batch size :16
 
 Training type : detection
 
