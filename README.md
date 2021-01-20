@@ -21,6 +21,7 @@ test data number : 97
 
 label : xml -> csv -> train.record and test.record
 
+Model : SSD ResNet50 V1 FPN 640x640
 Dataset : https://github.com/Shenggan/BCCD_Dataset
 
 ## Result
