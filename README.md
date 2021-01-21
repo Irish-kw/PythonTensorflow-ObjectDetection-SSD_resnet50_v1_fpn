@@ -3,7 +3,7 @@
 Using ssd_resnet50_v1_fpn model to train Blood Image
 
 ## Detail
-Nvidia 1080 TI X4
+Nvidia 1080 TI X4 (And also try to use RTX3090 X2)
 
 Tensorflow : 2.2
 
