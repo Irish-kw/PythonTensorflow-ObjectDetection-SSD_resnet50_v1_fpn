@@ -7,7 +7,9 @@ Nvidia 1080 TI X4
 
 Tensorflow : 2.2
 
-Training time : 
+Training time : 6 hour
+
+Training steps : 58600
 
 Batch size :16
 
