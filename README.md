@@ -25,13 +25,13 @@ Model : https://github.com/tensorflow/models/blob/master/research/object_detecti
 
 Dataset : https://github.com/Shenggan/BCCD_Dataset
 
-![image](https://github.com/weisting-kw/PythonTensorflow-ObjectDetection-SSD_resnet50_v1_fpn/blob/main/detal1.png)
+![image](https://github.com/weisting-kw/PythonTensorflow-ObjectDetection-SSD_resnet50_v1_fpn/blob/main/detail1.png)
 
-![image](https://github.com/weisting-kw/PythonTensorflow-ObjectDetection-SSD_resnet50_v1_fpn/blob/main/detal2.png)
+![image](https://github.com/weisting-kw/PythonTensorflow-ObjectDetection-SSD_resnet50_v1_fpn/blob/main/detail2.png)
 
-![image](https://github.com/weisting-kw/PythonTensorflow-ObjectDetection-SSD_resnet50_v1_fpn/blob/main/detal3.png)
+![image](https://github.com/weisting-kw/PythonTensorflow-ObjectDetection-SSD_resnet50_v1_fpn/blob/main/detail3.png)
 
-![image](https://github.com/weisting-kw/PythonTensorflow-ObjectDetection-SSD_resnet50_v1_fpn/blob/main/detal4.png)
+![image](https://github.com/weisting-kw/PythonTensorflow-ObjectDetection-SSD_resnet50_v1_fpn/blob/main/detail4.png)
 
 
 ## Result(testing datasets, left: predict, right: groundtruth)
