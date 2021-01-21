@@ -27,14 +27,14 @@ Dataset : https://github.com/Shenggan/BCCD_Dataset
 
 ## Result
 
-![image](https://github.com/weisting-kw/PythonTensorflow-ObjectDetection-SSD_resnet50_v1_fpn/blob/main/BloodImage_00301.jpg)
+![image](https://github.com/weisting-kw/PythonTensorflow-ObjectDetection-SSD_resnet50_v1_fpn/blob/main/example1.png)
 
-![image](https://github.com/weisting-kw/PythonTensorflow-ObjectDetection-SSD_resnet50_v1_fpn/blob/main/BloodImage_00301_predict.jpg)
+![image](https://github.com/weisting-kw/PythonTensorflow-ObjectDetection-SSD_resnet50_v1_fpn/blob/main/example2.png)
 
-![image](https://github.com/weisting-kw/PythonTensorflow-ObjectDetection-SSD_resnet50_v1_fpn/blob/main/BloodImage_00302.jpg)
+![image](https://github.com/weisting-kw/PythonTensorflow-ObjectDetection-SSD_resnet50_v1_fpn/blob/main/example3.png)
 
-![image](https://github.com/weisting-kw/PythonTensorflow-ObjectDetection-SSD_resnet50_v1_fpn/blob/main/BloodImage_00302_predict.jpg)
+![image](https://github.com/weisting-kw/PythonTensorflow-ObjectDetection-SSD_resnet50_v1_fpn/blob/main/example4.png)
 
-![image](https://github.com/weisting-kw/PythonTensorflow-ObjectDetection-SSD_resnet50_v1_fpn/blob/main/BloodImage_00303.jpg)
+![image](https://github.com/weisting-kw/PythonTensorflow-ObjectDetection-SSD_resnet50_v1_fpn/blob/main/example5.png)
 
-![image](https://github.com/weisting-kw/PythonTensorflow-ObjectDetection-SSD_resnet50_v1_fpn/blob/main/BloodImage_00303_predict.jpg)
+![image](https://github.com/weisting-kw/PythonTensorflow-ObjectDetection-SSD_resnet50_v1_fpn/blob/main/example6.png)
